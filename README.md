@@ -28,17 +28,17 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 
-<!-- NEW -->
+## Jest Setup
 npm i jest@28.0.0
 npm install @types/jest jest-preset-angular ts-jest
 npm install --save-dev @angular-builders/jest
 
 
-<!-- Dependencies -->
-"ts-jest": "^29.0.5",
-"@types/jest": "^29.4.0",
-"jest-preset-angular": "^12.2.6",
+## Jest Dependencies
+"ts-jest": "^29.0.5"
+"@types/jest": "^29.4.0"
+"jest-preset-angular": "^12.2.6"
 
-<!-- DevDependencies -->
-"@angular-builders/jest": "^15.0.0",
-"jest": "^28.0.0",
+## Jest DevDependencies
+"@angular-builders/jest": "^15.0.0"
+"jest": "^28.0.0"
